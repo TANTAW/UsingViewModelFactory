@@ -8,7 +8,7 @@ plugins {
 
 android {
     namespace = "com.skills.example.usingviewmodelfactory"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.skills.example.usingviewmodelfactory"
